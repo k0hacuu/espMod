@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "BanditEsp",
+  "name": "Bandit ESP",
+  "description": "A simple mod that gives you the location of an entity.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["SunnyCN"],
+  "credits": "The Forge and FML guys, King_minotaur",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
