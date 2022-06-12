@@ -1,4 +1,4 @@
-package com.SunnyCN.BanditEsp;
+package com.example.BanditEsp;
 
 import net.minecraft.init.Blocks;
 import cpw.mods.fml.common.Mod;
@@ -14,8 +14,7 @@ public class BanditEsp
     @EventHandler
     public void init(FMLInitializationEvent event)
     {
-
+		// some example code
         System.out.println("DIRT BLOCK >> "+Blocks.dirt.getUnlocalizedName());
-        
     }
 }
