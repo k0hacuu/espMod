@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="cpw.mods.fml.relauncher.SideOnly"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.eventhandler.SubscribeEvent"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.client.event.RenderGameOverlayEvent"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.client.FMLClientHandler"/>
+</qualifiedTypeNameHistroy>
